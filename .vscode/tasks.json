@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "counterproject",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - counterproject",
+			"detail": "vite build"
+		}
+	]
+}
